@@ -1,0 +1,9 @@
+John,6
+Paul,5
+George,1
+Ringo,3
+James,8
+Steven,7
+Cheryl,20
+Bernard,2
+Brigitte,15
