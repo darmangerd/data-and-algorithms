@@ -5,9 +5,10 @@ name = "pypi"
 
 [packages]
 numpy = "*"
+ipykernel = "*"
 
 [dev-packages]
 jupyter = "*"
 
 [requires]
-python_version = "3.12"
+python_version = "3.13"
